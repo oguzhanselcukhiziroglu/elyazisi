@@ -1,3 +1,4 @@
+import React from 'react';
 import React, { useState } from 'react';
 import { Storage, API, graphqlOperation } from 'aws-amplify';
 import { createHandwriting } from './graphql/mutations';
